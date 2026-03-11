@@ -1,0 +1,16 @@
+## Architecture Diagram
+
+```mermaid
+flowchart TD
+    A[Trigger Input<br>Simulated Trigger / Break Beam Sensor]
+    B[Arduino Uno]
+    C[Event Detection Logic]
+    D[Timestamp Generation<br>millis()]
+    E[Serial Output]
+    F[Validation / Log Review]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
