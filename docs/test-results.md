@@ -26,3 +26,20 @@ Event detected
 
 ### Result
 PASS – Event detection is functioning correctly.
+
+### Event Logs
+No event detected
+
+No event detected
+
+Event detected
+Timestamp: 15000 ms
+
+Event detected
+Timestamp: 15501 ms
+
+Event detected
+Timestamp: 16001 ms
+
+Event detected
+Timestamp: 16501 ms
