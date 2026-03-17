@@ -43,3 +43,24 @@ Timestamp: 16001 ms
 
 Event detected
 Timestamp: 16501 ms
+
+## Issue 7 Event logs
+Event detected
+Timestamp: 1981 ms
+
+Event detected
+Timestamp: 7991 ms
+Time since last event: 6010 ms
+
+Event detected
+Timestamp: 11854 ms
+Time since last event: 3863 ms
+
+Event detected
+Timestamp: 15140 ms
+Time since last event: 3286 ms
+
+Event detected
+Timestamp: 57178 ms
+Time since last event: 42038 ms
+
